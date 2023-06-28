@@ -20,5 +20,5 @@ Belorusian state economic university
 
 ## Language Skills
 
-Russian - native  
-English - B1
+Russian - **native**  
+English - **B1**
