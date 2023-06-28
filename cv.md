@@ -9,7 +9,7 @@ I'm 33 years old. I work in financial service, and I take my first step in field
 
 ## Education
 Belorusian state economic university  
-    - state managament
+    - *state managament*
 
 
 ## Skills  
